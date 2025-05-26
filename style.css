@@ -1,0 +1,25 @@
+h4{
+    color: aqua;
+    text-align: center;
+}
+#id1{
+    color: yellow;
+
+}
+.box{
+    border: 2px solid red;
+    margin: 23px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2%;
+    background-color: aqua
+}
+button{
+ color: brown;
+}
+table, th, td{
+    background-color: aqua;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+  
